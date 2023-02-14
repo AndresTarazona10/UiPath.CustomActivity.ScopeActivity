@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
+        "projectName": "Colombia.ActividadScope",
+        "projectPath": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
+        "packagesPath": "C:\\Users\\andres.tarazona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\.nuget\\NuGet.Config",
+          "C:\\Users\\andres.tarazona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\andres.tarazona\\Documents\\UiPath\\Custom Nugets": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
