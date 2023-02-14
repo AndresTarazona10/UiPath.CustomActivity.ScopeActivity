@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFUkr4RgdPPiFrt1gYwxSqgnGtp8XB0K2VHW5gx5cuoKm0zVjYSgRaOTPdws0ZQzrSs+EO+SGg8+mjMbH/0lNw==",
+  "dgSpecHash": "pnzV8/oN1CitwOkiNKk4u/U+nlRNkM52JrXqT6BstFlLN9sSEl7RvyM+/c+pSmnhvy84XHhTR8gVDsyMkARa2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.Activities\\Colombia.ActividadScope.Activities.csproj",
+  "projectFilePath": "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope.Activities\\Colombia.ActividadScope.Activities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

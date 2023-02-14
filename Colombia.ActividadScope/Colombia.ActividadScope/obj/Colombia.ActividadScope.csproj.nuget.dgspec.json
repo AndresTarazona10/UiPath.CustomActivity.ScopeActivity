@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {}
+    "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {
+    "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
+        "projectUniqueName": "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
         "projectName": "Colombia.ActividadScope",
-        "projectPath": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
+        "projectPath": "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope.csproj",
         "packagesPath": "C:\\Users\\andres.tarazona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\Colombia.ActividadScope\\Colombia.ActividadScope\\obj\\",
+        "outputPath": "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\Colombia.ActividadScope\\Colombia.ActividadScope\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\andres.tarazona\\source\\repos\\Colombia.ActividadScope\\.nuget\\NuGet.Config",
+          "C:\\Users\\andres.tarazona\\source\\repos\\UiPath.CustomActivity.ScopeActivity\\.nuget\\NuGet.Config",
           "C:\\Users\\andres.tarazona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

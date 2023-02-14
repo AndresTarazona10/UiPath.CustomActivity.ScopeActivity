@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\andres.tarazona\source\repos\Colombia.ActividadScope\Colombia.ActividadScope\Colombia.ActividadScope.Activities.Design\obj\Debug\net461\
+C:\Users\andres.tarazona\source\repos\UiPath.CustomActivity.ScopeActivity\Colombia.ActividadScope\Colombia.ActividadScope.Activities.Design\obj\Debug\net461\
 Colombia.ActividadScope.Activities.Design
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET461;
 
-61567593203
+6-617911909
 
-18993854944
-20322730989
-..\..\Shared\Themes\Generic.xaml;Themes\Icons.xaml;C:\Users\andres.tarazona\source\repos\Colombia.ActividadScope\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\andres.tarazona\source\repos\Colombia.ActividadScope\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\andres.tarazona\source\repos\Colombia.ActividadScope\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\andres.tarazona\source\repos\Colombia.ActividadScope\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
+18-346637670
+20-2097669962
+..\..\Shared\Themes\Generic.xaml;Themes\Icons.xaml;C:\Users\andres.tarazona\source\repos\UiPath.CustomActivity.ScopeActivity\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\andres.tarazona\source\repos\UiPath.CustomActivity.ScopeActivity\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\andres.tarazona\source\repos\UiPath.CustomActivity.ScopeActivity\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\andres.tarazona\source\repos\UiPath.CustomActivity.ScopeActivity\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
 
 False
 
